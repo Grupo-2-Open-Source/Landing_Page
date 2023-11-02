@@ -1006,7 +1006,7 @@ h1.intro-header-v2 {
 
 h1.intro-header::before {
   display: block;
-  left: 33%;
+  left: 50%;
   content: "";
   height: 2px;
   width: 70px;
